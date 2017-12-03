@@ -133,10 +133,10 @@ h2 {
 .buttonBrown2 {
     background-color: #BF7D14;
     border: none;
-    padding-left: 7%;
-    padding-right: 7%;
-    padding-top: 5%;
-    padding-bottom: 5%;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 6%;
+    padding-bottom: 6%;
     border-radius: 2%;
 }
 li {
