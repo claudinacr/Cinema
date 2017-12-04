@@ -124,19 +124,15 @@ h2 {
 .buttonBrown {
     background-color: #BF7D14;
     border: none;
-    padding-left: 10%;
-    padding-right: 10%;
-    padding-top: 6%;
-    padding-bottom: 6%;
+    width: 60%;
+    height: 4em;
     border-radius: 2%;
 }
 .buttonBrown2 {
     background-color: #BF7D14;
     border: none;
-    padding-left: 10%;
-    padding-right: 10%;
-    padding-top: 6%;
-    padding-bottom: 6%;
+    width: 30%;
+    height: 4em;
     border-radius: 2%;
 }
 li {
@@ -201,7 +197,8 @@ button:hover {
 .buttonYellow {
     background-color: #F9DA42;
     border: none;
-    padding: 5%;
+    width: 60%;
+    height: 4em;
 }
 .capa1 {
     width: 6%;
@@ -250,6 +247,9 @@ button:hover {
     color: #DEBF16;
     font-weight: bold;
     margin: 0;
+}
+.orange:hover {
+    cursor: pointer;
 }
 footer {
     padding-top: 1em;
